@@ -131,3 +131,6 @@ dmypy.json
 # personal files
 Compares/*
 Input/*
+
+# DS
+.DS_Store
